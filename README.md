@@ -2,4 +2,4 @@
 
 Cronometro utilizando o JavaScript
 
-![Foto do cronometro](Cronometrojs)
+![Foto do cronometro](Cronometrojs.png)
